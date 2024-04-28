@@ -1,6 +1,6 @@
-# Desafio de HTML Básico
+# Projeto Acadêmico 
 
-## Descrição do Desafio
+## Desafio de HTML Básico
 
 O objetivo deste desafio é criar um website utilizando uma estrutura básica de HTML. O website deve conter informações sobre a história dos computadores, o que são "clients" e "servers", e como é a estrutura básica de um HTML.
 
